@@ -718,6 +718,7 @@ greenhouse:wasabi
 greenhouse:waymark
 greenhouse:whitewatermidstream
 greenhouse:wikimedia
+greenhouse:winton
 greenhouse:wonderschool
 greenhouse:workatbackbase
 greenhouse:workato
@@ -942,6 +943,7 @@ smartrecruiters:NBCUniversal3
 smartrecruiters:NationalSoftwareManagement1
 smartrecruiters:NatixisInPortugal
 smartrecruiters:NextCenturyCorporation
+smartrecruiters:NielsenIQ
 smartrecruiters:NorthStarStaffingSolutions1
 smartrecruiters:NorthwesternMutual
 smartrecruiters:PQ
