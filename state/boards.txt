@@ -306,6 +306,7 @@ ashby:scale%20army%20careers
 ashby:sciemo
 ashby:semgrep
 ashby:sentry
+ashby:seon
 ashby:seqholdings
 ashby:serval
 ashby:sierra
@@ -427,6 +428,7 @@ greenhouse:blackduck
 greenhouse:blackedgecapital
 greenhouse:blend
 greenhouse:blenheimchalcot
+greenhouse:bluestaq
 greenhouse:botauto
 greenhouse:bottomlinetechnologies
 greenhouse:boxinc
@@ -524,6 +526,7 @@ greenhouse:ginkgobioworks
 greenhouse:gofundme
 greenhouse:gotion
 greenhouse:graphcore
+greenhouse:graphcore-early-careers
 greenhouse:guidepointsecurity
 greenhouse:haigroup
 greenhouse:haizelabs
@@ -560,6 +563,7 @@ greenhouse:jumio
 greenhouse:justworks
 greenhouse:k2spacecorporation
 greenhouse:kalepa
+greenhouse:karbon
 greenhouse:kargo
 greenhouse:katalyst
 greenhouse:kikoff
@@ -725,12 +729,14 @@ greenhouse:workato
 greenhouse:workshop
 greenhouse:world4822stri986des
 greenhouse:worldquant
+greenhouse:wpp
 greenhouse:wurljobs
 greenhouse:xai
 greenhouse:xairatherapeutics
 greenhouse:xantium
 greenhouse:xpengmotors
 greenhouse:xtillion
+greenhouse:yext
 greenhouse:ziprecruiter
 greenhouse:zone5technologies
 greenhouse:zyngacareers
@@ -813,6 +819,7 @@ lever:nationaljournal
 lever:neighbor
 lever:neuron7
 lever:oddin
+lever:olo
 lever:omnidesigntech
 lever:optionmetrics
 lever:palantir
@@ -831,6 +838,7 @@ lever:revenueanalytics
 lever:rigetti
 lever:riverdale
 lever:rover
+lever:runlaminar
 lever:rws
 lever:salesdemo-jr
 lever:schmidt-entities
