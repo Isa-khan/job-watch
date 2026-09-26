@@ -11,6 +11,7 @@ ashby:Crusoe
 ashby:Etched
 ashby:FSH
 ashby:G2
+ashby:GovSignals
 ashby:Hippocratic%20AI
 ashby:Kognitos
 ashby:Lightfield
@@ -30,6 +31,7 @@ ashby:Valon
 ashby:Verne%20Robotics
 ashby:abridge
 ashby:abundant
+ashby:aescape
 ashby:aiprise
 ashby:airwallex
 ashby:allen-control-systems
@@ -597,6 +599,7 @@ greenhouse:metron
 greenhouse:mettel
 greenhouse:mill
 greenhouse:mitratech
+greenhouse:momentenergy
 greenhouse:morsecorpcoop
 greenhouse:msfcareers
 greenhouse:mw-tech-grad
@@ -810,6 +813,7 @@ lever:jobgether
 lever:kepler
 lever:kitware
 lever:kobie
+lever:leantaas
 lever:lendbuzz
 lever:loftorbital
 lever:lumotive
@@ -1099,6 +1103,7 @@ workday:barclays/external_career_site_barclays
 workday:barnard/Staff
 workday:barrywehmiller/BWConfidential
 workday:bbva/bbva
+workday:bcbsla/Generation_Blue
 workday:bci/BCI_Careers
 workday:bci/bci_careers
 workday:bdo/BDO
@@ -1144,6 +1149,7 @@ workday:capitalone/Capital_One
 workday:capitalone/capital_one
 workday:carmax/External
 workday:cat/CaterpillarCareers
+workday:cat/solarturbines
 workday:cbrlgroup/crackerbarrelexternal
 workday:cccis/broadbean_external
 workday:cecentertainment/CEC_Careers
@@ -1164,6 +1170,7 @@ workday:cisco/cisco_careers
 workday:cisive/Cisive
 workday:citi/2
 workday:clearwateranalytics/Clearwater_Analytics_Careers
+workday:clr/CLR_Careers
 workday:conehealth/cone_health-careers
 workday:connect/ztsystemscareers
 workday:copart/copart
@@ -1320,6 +1327,7 @@ workday:legalshieldcorp/lsc
 workday:leidos/External
 workday:leidos/external
 workday:leonardocompany/LeonardoCareerSite
+workday:levistraussandco/external
 workday:liberty/lu_job_board_staff
 workday:lowes/LWS_External_CS
 workday:lplfinancial/university
@@ -1355,6 +1363,7 @@ workday:moffitt/Moffitt
 workday:monolithicpower/MPS_Careers
 workday:montage/Montage_International
 workday:moog/moog_external_career_site
+workday:mosaic/mosaic
 workday:motorolasolutions/Careers
 workday:ms/External
 workday:msiexpress/MSI_Express_External_Careers
@@ -1479,6 +1488,7 @@ workday:swa/external
 workday:swift/join-swift
 workday:symbotic/Symbotic
 workday:synchronyfinancial/University
+workday:synnex/tdsynnexcareers
 workday:talentmanagementsolution/perseus-careers
 workday:tandemdiabetes/tandemdiabetes
 workday:taskus/careers
@@ -1505,8 +1515,10 @@ workday:trendmicro/external
 workday:troweprice/TRowePrice
 workday:tsc/TSC-Careers
 workday:tsc/tsc-careers
+workday:tsys/tsys
 workday:tti/tti_pe
 workday:tysonfoods/TSN
+workday:uasys/uasys
 workday:uchicago/External
 workday:uhyus/uhy
 workday:unisys/External
