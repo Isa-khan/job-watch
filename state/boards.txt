@@ -222,6 +222,7 @@ ashby:meow
 ashby:mercor
 ashby:meshy
 ashby:metaview
+ashby:mintmcp
 ashby:mistral.ai
 ashby:miter
 ashby:moab
@@ -257,6 +258,7 @@ ashby:parafin
 ashby:parallel
 ashby:pariveda
 ashby:pavebank
+ashby:pebl
 ashby:people-culture-talent
 ashby:perplexity
 ashby:persona
@@ -424,6 +426,8 @@ greenhouse:bakerhicks
 greenhouse:baltimoreorioles
 greenhouse:bees
 greenhouse:bertramcapitalmanagement
+greenhouse:bgeinc
+greenhouse:bgeinccampus
 greenhouse:blackduck
 greenhouse:blackedgecapital
 greenhouse:blend
@@ -487,6 +491,7 @@ greenhouse:drwuniversityjobs
 greenhouse:duolingounirecruitment
 greenhouse:dvtrading
 greenhouse:ebury
+greenhouse:efficientcomputer
 greenhouse:emergentlabsinc
 greenhouse:enigmaio
 greenhouse:eosfitness
@@ -515,6 +520,7 @@ greenhouse:fspco-op012325
 greenhouse:gallup
 greenhouse:gardacp
 greenhouse:garnerhealth
+greenhouse:gcmgrosvenor
 greenhouse:generalmatter
 greenhouse:genevatrading
 greenhouse:gensyn
@@ -724,6 +730,7 @@ greenhouse:whitewatermidstream
 greenhouse:wikimedia
 greenhouse:winton
 greenhouse:wonderschool
+greenhouse:woolpert
 greenhouse:workatbackbase
 greenhouse:workato
 greenhouse:workshop
@@ -818,6 +825,7 @@ lever:multiplylabs
 lever:nationaljournal
 lever:neighbor
 lever:neuron7
+lever:nobullproject
 lever:oddin
 lever:olo
 lever:omnidesigntech
@@ -962,6 +970,7 @@ smartrecruiters:ProcomServices
 smartrecruiters:ProximateTechnologiesInc1
 smartrecruiters:QANALYSTSLLC2
 smartrecruiters:RESPECInc
+smartrecruiters:RRSGroup
 smartrecruiters:RadiusLimited
 smartrecruiters:RegDeskInc
 smartrecruiters:RenesasElectronics
@@ -1017,6 +1026,7 @@ smartrecruiters:systemCanadaTechnologies
 smartrecruiters:visa
 workday:aah/External
 workday:abb/external_career_page
+workday:abbott/abbottcareers2
 workday:abglobal/abcampuscareers
 workday:abglobal/alliancebernsteincareers
 workday:accenture/AccentureCareers
@@ -1035,12 +1045,14 @@ workday:ais/careers
 workday:aksteel/careers
 workday:alation/ExternalSite
 workday:alation/externalsite
+workday:allegion/careers
 workday:allegromicro/allegrocareers
 workday:alliance/nissanjobs
 workday:alliancedata/breadfinancial_us
 workday:alliedsolutions/Allied_External
 workday:alliedsolutions/allied_external
 workday:altera/altera
+workday:amainc/ama_careers
 workday:amat/External
 workday:ambarella/ambarella
 workday:amcor/amcor_external_career_site
@@ -1077,6 +1089,7 @@ workday:awepeople/Grad_Careers
 workday:awg/broadbean_external
 workday:axcelis/axcelis
 workday:axos/Axos
+workday:azmag/magcareers
 workday:badgermeter/US_CareerSite
 workday:bah/Confidential
 workday:bah/bah_jobs
@@ -1151,6 +1164,7 @@ workday:cisco/cisco_careers
 workday:cisive/Cisive
 workday:citi/2
 workday:clearwateranalytics/Clearwater_Analytics_Careers
+workday:conehealth/cone_health-careers
 workday:connect/ztsystemscareers
 workday:copart/copart
 workday:coreandmain/coreandmain
@@ -1165,6 +1179,7 @@ workday:crowdstrike/crowdstrikecareers
 workday:crowe/external_careers
 workday:csiweb/CSI_Careers
 workday:curtisswright/cw_external_career_site
+workday:cvshealth/CVS_Health_Careers
 workday:cyrusone/CyrusOneCareerPortal
 workday:dallascollege/Dallas_College_Careers
 workday:damen/damen_careers
@@ -1180,6 +1195,7 @@ workday:disney/disneycareerdc
 workday:dowjones/Dow_Jones_Career
 workday:draper/Draper_Careers
 workday:drivenbrands/drivenbrandscareersite
+workday:dssmith/dss_internal
 workday:dtna/dtna_affiliate
 workday:dukeenergy/search
 workday:dutchbros/DBShops
@@ -1190,9 +1206,11 @@ workday:eisneramper/EisnerAmperEarlyCareers
 workday:elekta/elekta_careers
 workday:encore/confidential
 workday:ensemblehp/ensemblehealthpartnerscareers
+workday:epiqsystems/Epiq_Careers
 workday:equifax/UR_External
 workday:essex/essexcareers
 workday:evolito/Evolito_Career_Site
+workday:exclusivenetworks/Exclusive-Networks-Career
 workday:exelixis/exel
 workday:expedia/private
 workday:fanniemae/FannieMaeCareers
@@ -1206,6 +1224,7 @@ workday:firstnational/fnbocareers
 workday:firstquality/firstquality
 workday:fis/searchjobs
 workday:flir/flircareers
+workday:flutterbe/flutterint_external
 workday:fmr/targeted
 workday:fnbcorp/FNBCORP
 workday:formfactor/FFI-Careers
@@ -1232,6 +1251,7 @@ workday:graco/graco_careers
 workday:greatamerica/greatamericacareers
 workday:gresearch/G-Research
 workday:gresearch/g-research
+workday:gsknch/GSKCareers
 workday:guidehouse/external
 workday:guidestone/guidestone
 workday:gunvor/Gunvor_Careers
@@ -1251,6 +1271,7 @@ workday:hpe/acjobsite
 workday:hq/Securian_External
 workday:hrhub/Euronext_Career_Page
 workday:hubinternational/HUBInternational
+workday:humana/humana_external_career_site
 workday:huntington/HNBcareers
 workday:huntington/hnbcareers
 workday:hyperiongrp/Hyperion_External
@@ -1341,6 +1362,7 @@ workday:myhrabc/Global
 workday:myhrhome/OneMainCareers
 workday:mymvw/hvocareers
 workday:myview/paradox_careers
+workday:nasdaq/Global_External_Site
 workday:nc/NC_Careers
 workday:ncr/ext_us
 workday:newrez/NRZ
@@ -1389,6 +1411,7 @@ workday:pwc/Global_Campus_Careers
 workday:pwc/US_Entry_Level_Careers
 workday:pwc/us_experienced_careers
 workday:radiancetech/Radiance_External
+workday:radiancetech/radiance_external
 workday:razer/careers
 workday:rbc/ExternalPrivatePostingStudents
 workday:rbc/RBCEARLYTALENT1
@@ -1402,7 +1425,9 @@ workday:relx/elsevierjobs
 workday:relx/lexisnexislegal
 workday:relx/relx
 workday:relx/risksolutions
+workday:remitly/Remitly_Careers
 workday:repsol/Repsol
+workday:resmed/resmed_external_careers
 workday:rhsc/delta_dental_of_michigan
 workday:risepoint/Risepoint
 workday:rit/careers
@@ -1430,6 +1455,7 @@ workday:shi/shicareers
 workday:signetjewelers/SignetCorporateCareers
 workday:silabs/SiliconlabsCareers
 workday:slihrms/careers
+workday:snapfinance/snap_external_careers
 workday:snc/snc_external_career_site
 workday:sonyglobal/SonyGlobalCareers
 workday:soti/SOTI-Next-Gen
@@ -1462,6 +1488,7 @@ workday:td/TD_Bank_Careers
 workday:td/td_bank_careers
 workday:tedsmontanagrill/TMG_External_Career_Site
 workday:tel/tel-careers
+workday:tencent/Lightspeed
 workday:tencent/OA_Huoshui_Platform
 workday:tencent/Tencent_Careers
 workday:texascapitalbank/careers
@@ -1510,11 +1537,13 @@ workday:wattswater/external
 workday:wawa/careers
 workday:wellington/Campus
 workday:wgu/external
+workday:wilburellis/wilbur-ellis
 workday:wk/External
 workday:wonder/wg
 workday:workday/Workday_Jobs
 workday:yougov/linkedin
 workday:yougov/yougov_external_careers
+workday:zalando/zalandositewd
 workday:zebra/Zebra_careers
 workday:zekelman/Careers
 workday:zoll/zollmedicalcorp
